@@ -11,3 +11,5 @@ https://read.deeplearning.ai/the-batch/
 https://twitter.com/ai__pub
 
 https://twitter.com/TheSequenceAI
+
+https://www.ai-summary.com/
