@@ -13,3 +13,5 @@ https://twitter.com/ai__pub
 https://twitter.com/TheSequenceAI
 
 https://www.ai-summary.com/
+
+https://mailchi.mp/technologyreview.com/welcome-to-the-algorithm-j1fl2n3h99
